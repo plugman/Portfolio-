@@ -115,7 +115,182 @@
       </div>
       </div>
   </div>
-    <!--<div id="projects_w">
+    <div id="projects_w">
+    <div class="project_w readprint">
+        <div class="project_info_w">
+        <div class="project_info_h">
+            <div class="head blue">
+            <h4>ReadPrint</h4>
+            <a href="http://www.readprint.com/">www.readprint.com</a> </div>
+            <div class="project_info_i">
+            <h5>Description</h5>
+            <p class="text">A free online library, Read Print puts thousands of online books at your fingertips.</p>
+            <h5>Position</h5>
+            <p class="text">Lead web developer/designer</p>
+            <h5>Work</h5>
+            <ul>
+                <li>Design</li>
+                <li>Development (PHP, Codeigniter, MySQL)</li>
+                <li>Cloud Server Setup</li>
+              </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+    <div class="project_w investorwatchdog">
+        <div class="project_info_w">
+        <div class="project_info_h">
+            <div class="head blue">
+            <h4>InvestorWatchdog</h4>
+            <a href="http://www.investorwatchdog.com/">www.investorwatchdog.com</a> </div>
+            <div class="project_info_i">
+            <h5>Description</h5>
+            <p class="text">Online monitoring of investmest risk, performance, &amp; expenses with easy to use personal finance tools.</p>
+            <h5>Position</h5>
+            <p class="text">Lead web developer/designer</p>
+            <h5>Work</h5>
+            <ul>
+                <li>Design</li>
+                <li>Development (Ruby On Rails, MySQL)</li>
+                <li>Payment processor integration</li>
+                <li>Cloud Server Setup</li>
+              </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+    <div class="project_w matchfinancing">
+        <div class="project_info_w">
+        <div class="project_info_h">
+            <div class="head blue">
+            <h4>MatchFinancing</h4>
+            <a href="http://www.matchfinancing.com/">www.matchfinancing.com</a> </div>
+            <div class="project_info_i">
+            <h5>Description</h5>
+            <p class="text">Match Financing is a free service for small and medium sized business borrowers to find business loans.</p>
+            <h5>Position</h5>
+            <p class="text">Lead web developer/designer</p>
+            <h5>Work</h5>
+            <ul>
+                <li>Design</li>
+                <li>Logo Design</li>
+                <li>Development (PHP, Codeigniter, MySQL)</li>
+                <li>Payment processor integration</li>
+                <li>Cloud Server Setup</li>
+              </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+    <div class="project_w buyeyeglasses">
+        <div class="project_info_w">
+        <div class="project_info_h">
+            <div class="head blue">
+            <h4>BuyEyeglasses</h4>
+            <a href="http://www.buyeyeglasses.com/">www.buyeyeglasses.com</a> </div>
+            <div class="project_info_i">
+            <h5>Description</h5>
+            <p class="text">E-commerce website of designer eyewear. Custom made shopping card built from the ground up.</p>
+            <h5>Position</h5>
+            <p class="text">Co-Founder, Lead web developer/designer/seo</p>
+            <h5>Work</h5>
+            <ul>
+                <li>Co-Founder</li>
+                <li>Design</li>
+                <li>Development (PHP, MySQL)</li>
+                <li>Payment processors integration</li>
+                <li>SEO</li>
+              </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+    <div class="project_w zbugs">
+        <div class="project_info_w">
+        <div class="project_info_h">
+            <div class="head blue">
+            <h4>zBugs</h4>
+            <a href="http://www.imranqadir.me/">www.imranqadir.me</a> </div>
+            <div class="project_info_i">
+            <h5>Description</h5>
+            <p class="text">An easy to use online web page compression 
+                tool. Speed up your website by compressing, merging and Gzipping your 
+                CSS and Javascript files.</p>
+            <h5>Position</h5>
+            <p class="text">My Personal Project</p>
+            <h5>Work</h5>
+            <ul>
+                <li>Founder</li>
+                <li>Design</li>
+                <li>Development</li>
+              </ul>
+          </div>
+          </div>
+      </div>
+      </div>
+  </div>
+    <div id="services_area">
+    <div class="services_area_i">
+        <div class="box_w services_w">
+        <h3 id="services" class="services_header">Services I offer</h3>
+        <div class="services_w">
+            <div class="service design">
+            <h5>Web design</h5>
+            <p>I simply love web design, all my work starts from a blank 
+                canvas so you will never have a web site that comes from a pre made site
+                template.</p>
+          </div>
+            <div class="service development">
+            <h5>Web development</h5>
+            <p>I ensure all my web code meets the highest web standards that works across all major browsers and is S.E.O friendly.</p>
+          </div>
+            <div class="service seo">
+            <h5>S.E.O</h5>
+            <p>Search Engine Optimization is the most important factor to 
+                your success online and I can help you get top rankings for your target 
+                keywords.</p>
+          </div>
+            <div class="service server">
+            <h5>Linux Server Setup</h5>
+            <p>I'm experienced with setting up, maintaining, and troubleshooting Linux servers.</p>
+          </div>
+          </div>
+      </div>
+      </div>
+    <div class="box_w contact_form_w">
+        <div class="contact_w">
+        <h3 class="box_header icon_mail" id="contact">Contact Me</h3>
+        <div class="success_message" style="display:none">Thank You! Your message has been sent.</div>
+        <form id="contact_form">
+            <div class="field joined">
+            <label>Your name <span>*</span></label>
+            <input id="contact_name" type="text">
+          </div>
+            <div class="field joined">
+            <label>Your email <span>*</span></label>
+            <input id="contact_email" type="text">
+          </div>
+            <div class="clear"></div>
+            <div class="field">
+            <label>Your message <span>*</span></label>
+            <textarea cols="20" rows="7" id="contact_message"></textarea>
+          </div>
+            <div class="buttons_w">
+            <button id="contact_send">Send Message</button>
+          </div>
+          </form>
+        <div class="social_icons"> <span class="find_me_label">Find me on:</span> <a href="https://www.facebook.com/ImIaMrAn" rel="nofollow"><img src="assets/icon-facebook.png" alt=""></a> <a href="https://www.linkedin.com/pub/imran-qadir/a5/336/809" rel="nofollow"><img src="assets/icon-linkedin.png" alt=""></a> <a href="https://twitter.com/ImIaMrAn" rel="nofollow"><img src="assets/icon-twitter.png" alt=""></a> <a href="https://plus.google.com/113046074107439172383/posts" rel="nofollow"><img src="assets/icon-google.png" alt=""></a>
+            <div class="clear"></div>
+          </div>
+      </div>
+      </div>
+  </div>
+    <div id="footer">2014. Portfolio of Imran Qadir. </div>
+  </div>
+<script src="assets/application-24feabaf143cf313dad029ba20d6d931.js" type="text/javascript"></script>
+</body>
+</html>
+ <!--<div id="projects_w">
     <div class="project_w readprint">
         <div class="project_info_w">
         <div class="project_info_h">
@@ -229,64 +404,3 @@
       </div>
       </div>
   </div>-->
-    <div id="services_area">
-    <div class="services_area_i">
-        <div class="box_w services_w">
-        <h3 id="services" class="services_header">Services I offer</h3>
-        <div class="services_w">
-            <div class="service design">
-            <h5>Web design</h5>
-            <p>I simply love web design, all my work starts from a blank 
-                canvas so you will never have a web site that comes from a pre made site
-                template.</p>
-          </div>
-            <div class="service development">
-            <h5>Web development</h5>
-            <p>I ensure all my web code meets the highest web standards that works across all major browsers and is S.E.O friendly.</p>
-          </div>
-            <div class="service seo">
-            <h5>S.E.O</h5>
-            <p>Search Engine Optimization is the most important factor to 
-                your success online and I can help you get top rankings for your target 
-                keywords.</p>
-          </div>
-            <div class="service server">
-            <h5>Linux Server Setup</h5>
-            <p>I'm experienced with setting up, maintaining, and troubleshooting Linux servers.</p>
-          </div>
-          </div>
-      </div>
-      </div>
-    <div class="box_w contact_form_w">
-        <div class="contact_w">
-        <h3 class="box_header icon_mail" id="contact">Contact Me</h3>
-        <div class="success_message" style="display:none">Thank You! Your message has been sent.</div>
-        <form id="contact_form">
-            <div class="field joined">
-            <label>Your name <span>*</span></label>
-            <input id="contact_name" type="text">
-          </div>
-            <div class="field joined">
-            <label>Your email <span>*</span></label>
-            <input id="contact_email" type="text">
-          </div>
-            <div class="clear"></div>
-            <div class="field">
-            <label>Your message <span>*</span></label>
-            <textarea cols="20" rows="7" id="contact_message"></textarea>
-          </div>
-            <div class="buttons_w">
-            <button id="contact_send">Send Message</button>
-          </div>
-          </form>
-        <div class="social_icons"> <span class="find_me_label">Find me on:</span> <a href="https://www.facebook.com/ImIaMrAn" rel="nofollow"><img src="assets/icon-facebook.png" alt=""></a> <a href="https://www.linkedin.com/pub/imran-qadir/a5/336/809" rel="nofollow"><img src="assets/icon-linkedin.png" alt=""></a> <a href="https://twitter.com/ImIaMrAn" rel="nofollow"><img src="assets/icon-twitter.png" alt=""></a> <a href="https://plus.google.com/113046074107439172383/posts" rel="nofollow"><img src="assets/icon-google.png" alt=""></a>
-            <div class="clear"></div>
-          </div>
-      </div>
-      </div>
-  </div>
-    <div id="footer">2014. Portfolio of Imran Qadir. </div>
-  </div>
-<script src="assets/application-24feabaf143cf313dad029ba20d6d931.js" type="text/javascript"></script>
-</body>
-</html>
